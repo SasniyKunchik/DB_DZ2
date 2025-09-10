@@ -1,3 +1,5 @@
+package oop;
+
 public class User {
 
     private Long id;

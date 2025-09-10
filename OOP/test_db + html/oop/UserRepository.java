@@ -1,3 +1,5 @@
+package oop;
+
 import java.util.List;
 
 public interface UserRepository extends CrudRepository<User>{
